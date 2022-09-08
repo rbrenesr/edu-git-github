@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653488297 -0600	branch: Created from master
+62c8a103793185c4d4f646b595882a88e732a813 6a2742d08db834c62a4e3740ccf9185c2b795544 rafael <rbrenesr@gmail.com> 1653488675 -0600	commit: villanos.dm added
+6a2742d08db834c62a4e3740ccf9185c2b795544 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653488800 -0600	commit: villanos.md: Maria villano added
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 09cee1f64ca7fff772a066ff0eed660134492e2f rafael <rbrenesr@gmail.com> 1653490052 -0600	commit: desmadre el readme
+09cee1f64ca7fff772a066ff0eed660134492e2f 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653490303 -0600	reset: moving to 41fb898
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653490482 -0600	Branch: renamed refs/heads/branch-villanos to refs/heads/master
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 df8c184530e25510b2281600ef6471332973f94f rafael <rbrenesr@gmail.com> 1653604175 -0600	commit: Borramos a 2. Isidro
+df8c184530e25510b2281600ef6471332973f94f 9ef6a4a6872b012bced36cafa668d748be467e5c rafael <rbrenesr@gmail.com> 1653604476 -0600	merge branch-villanos: Merge made by the 'ort' strategy.
+9ef6a4a6872b012bced36cafa668d748be467e5c b584d82dfa1c0e3d607a83b7e0c91fc0c5a90e7d rafael <rbrenesr@gmail.com> 1653605388 -0600	commit: Misiones.md: Se agregó salval al mundo y cominda
+b584d82dfa1c0e3d607a83b7e0c91fc0c5a90e7d ddf6e3a00fa511ae555e7a784082f86c377544e2 rafael <rbrenesr@gmail.com> 1653606048 -0600	commit (merge): Union branch-conflicto / Misiones.md:completo

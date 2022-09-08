@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 ccf6344e55d19704c226023ecf360f2f5a0eaae9 rbrenesr <rbrenesr@gmail.com> 1655247393 -0600	commit (initial): repositoy 11 avenger added
+ccf6344e55d19704c226023ecf360f2f5a0eaae9 0000000000000000000000000000000000000000 rbrenesr <rbrenesr@gmail.com> 1655247437 -0600	Branch: renamed refs/heads/main to refs/heads/main
+ccf6344e55d19704c226023ecf360f2f5a0eaae9 ccf6344e55d19704c226023ecf360f2f5a0eaae9 rbrenesr <rbrenesr@gmail.com> 1655247437 -0600	Branch: renamed refs/heads/main to refs/heads/main
+ccf6344e55d19704c226023ecf360f2f5a0eaae9 848e93fc6d277179f80bb6b0c5fc922a93058af9 rbrenesr <rbrenesr@gmail.com> 1655247553 -0600	commit: .girigniore addded
+848e93fc6d277179f80bb6b0c5fc922a93058af9 848e93fc6d277179f80bb6b0c5fc922a93058af9 rbrenesr <rbrenesr@gmail.com> 1655303418 -0600	checkout: moving from main to villanos
+848e93fc6d277179f80bb6b0c5fc922a93058af9 58a51d9cb6b7a9433bf345a565708d8ea522c5b9 rbrenesr <rbrenesr@gmail.com> 1655303607 -0600	commit: Villanos.md: Agregamos la funcionalidad de villanos
+58a51d9cb6b7a9433bf345a565708d8ea522c5b9 61af0546d4aa8a2337460559a6250fea5f2c1e1e rbrenesr <rbrenesr@gmail.com> 1655304097 -0600	commit: Sr. Hurtado agregado
+61af0546d4aa8a2337460559a6250fea5f2c1e1e 848e93fc6d277179f80bb6b0c5fc922a93058af9 rbrenesr <rbrenesr@gmail.com> 1655304363 -0600	checkout: moving from villanos to main
+848e93fc6d277179f80bb6b0c5fc922a93058af9 bceac7df2d6fb0e169fb989ee70f54962a0328ba rbrenesr <rbrenesr@gmail.com> 1655304509 -0600	pull: Fast-forward
+bceac7df2d6fb0e169fb989ee70f54962a0328ba 02030d9b8fbc2675f6b137c235faf305796c48c6 rbrenesr <rbrenesr@gmail.com> 1655475390 -0600	checkout: moving from main to rama-misiones
+02030d9b8fbc2675f6b137c235faf305796c48c6 34d3f0d82b79b2841f64a14cfc6102de9de1b1f2 rbrenesr <rbrenesr@gmail.com> 1655475651 -0600	commit: Misiones Actualizadas
+34d3f0d82b79b2841f64a14cfc6102de9de1b1f2 bceac7df2d6fb0e169fb989ee70f54962a0328ba rbrenesr <rbrenesr@gmail.com> 1655476633 -0600	checkout: moving from rama-misiones to main
+bceac7df2d6fb0e169fb989ee70f54962a0328ba c2586f8f005d48eef71f9869db0600797c0f623f rbrenesr <rbrenesr@gmail.com> 1655476640 -0600	pull: Fast-forward
+c2586f8f005d48eef71f9869db0600797c0f623f 323ba8760a11b53f0bf5c092bc319a63cf8250fb rbrenesr <rbrenesr@gmail.com> 1655735477 -0600	commit: miembros.md: Agregamos a Nick Fury
+323ba8760a11b53f0bf5c092bc319a63cf8250fb 1a4284be040434b75c2674f0dfefabb2e3058e8c rbrenesr <rbrenesr@gmail.com> 1655736144 -0600	commit: Fixes: #5: miembros.md: Cap Marvel borrada
+1a4284be040434b75c2674f0dfefabb2e3058e8c 6d4812cc33dbe12b64a8dcf76646bc77ca07364a rbrenesr <rbrenesr@gmail.com> 1655736572 -0600	pull: Fast-forward

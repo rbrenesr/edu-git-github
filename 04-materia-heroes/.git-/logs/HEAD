@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 105cd51dfa172d91c9b4690f6e6887724e6ab80b rafael <rbrenesr@gmail.com> 1653058807 -0600	commit (initial): README.md added
+105cd51dfa172d91c9b4690f6e6887724e6ab80b 58087a1881d19b009aa885dfd6d3835aba3839a6 rafael <rbrenesr@gmail.com> 1653340626 -0600	commit: Agregamos misiones.md
+58087a1881d19b009aa885dfd6d3835aba3839a6 1c7398c2fe6211d6e5374da755dbd3bf3f8ebb2b rafael <rbrenesr@gmail.com> 1653340664 -0600	commit: Agregamos heroes.md
+1c7398c2fe6211d6e5374da755dbd3bf3f8ebb2b e5eb40afd4ff47361311c1b1f8058efc2f5e632f rafael <rbrenesr@gmail.com> 1653340691 -0600	commit: Agregamos ciudades.md
+e5eb40afd4ff47361311c1b1f8058efc2f5e632f 4f84df668cbe80329e90ed8e48ba7ff9fed96cf3 rafael <rbrenesr@gmail.com> 1653340741 -0600	commit: Agregamos la carpeta historia
+4f84df668cbe80329e90ed8e48ba7ff9fed96cf3 25fe4e3c8ec51519a87c4c69d2c1675236488f2c rafael <rbrenesr@gmail.com> 1653340793 -0600	commit (amend): Agregamos la carpeta histia de batman y superman
+25fe4e3c8ec51519a87c4c69d2c1675236488f2c 1f2d7c796d80b9dd24594fb8031e18639af278a3 rafael <rbrenesr@gmail.com> 1653340915 -0600	commit: agregamos a linterna verde
+1f2d7c796d80b9dd24594fb8031e18639af278a3 25fe4e3c8ec51519a87c4c69d2c1675236488f2c rafael <rbrenesr@gmail.com> 1653341473 -0600	reset: moving to 25fe4e3
+25fe4e3c8ec51519a87c4c69d2c1675236488f2c 9029104a924d6284793dd2471920d83dcf83e272 rafael <rbrenesr@gmail.com> 1653341634 -0600	commit: Heroes.mf : Robin y Linterna Verde
+9029104a924d6284793dd2471920d83dcf83e272 ed517da8d07ed6c10e6c245f62451bb59f6622cc rafael <rbrenesr@gmail.com> 1653342433 -0600	commit: Destruir mundoi aladido
+ed517da8d07ed6c10e6c245f62451bb59f6622cc 142f6be911f1265b0c4557f06d12edd3a8358b43 rafael <rbrenesr@gmail.com> 1653342651 -0600	commit: DEstruir mundo renombrado
+142f6be911f1265b0c4557f06d12edd3a8358b43 f137873152d186a4384748060e4c6c763f2539f3 rafael <rbrenesr@gmail.com> 1653342931 -0600	commit: salvar el mundo eliminado
+f137873152d186a4384748060e4c6c763f2539f3 f137873152d186a4384748060e4c6c763f2539f3 rafael <rbrenesr@gmail.com> 1653401686 -0600	reset: moving to f137873
+f137873152d186a4384748060e4c6c763f2539f3 142f6be911f1265b0c4557f06d12edd3a8358b43 rafael <rbrenesr@gmail.com> 1653401741 -0600	reset: moving to 142f6be
+142f6be911f1265b0c4557f06d12edd3a8358b43 ed517da8d07ed6c10e6c245f62451bb59f6622cc rafael <rbrenesr@gmail.com> 1653401803 -0600	reset: moving to ed517da
+ed517da8d07ed6c10e6c245f62451bb59f6622cc cfcb09f38fb0be592e37c69c406c83c9345963a8 rafael <rbrenesr@gmail.com> 1653402113 -0600	commit: Historia de batman eliminada
+cfcb09f38fb0be592e37c69c406c83c9345963a8 fed1cfca2fe88b781306a8339782cc1f09a65685 rafael <rbrenesr@gmail.com> 1653402525 -0600	commit: .gitignore added

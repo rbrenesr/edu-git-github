@@ -1,0 +1,76 @@
+0000000000000000000000000000000000000000 88a423dfb464636aef170f5f4f775ac7f2f26158 Strider <fernando.herrera85@gmail.com> 1497888417 -0600	commit (initial): Se agrego el archivo readme
+88a423dfb464636aef170f5f4f775ac7f2f26158 da24862d49edc92b35e54b53549fa6d3d65ffa7c Strider <fernando.herrera85@gmail.com> 1497888475 -0600	commit: Agregamos las misiones
+da24862d49edc92b35e54b53549fa6d3d65ffa7c 6b8f60d4bb136cfa0563274f340dd2da090b8e25 Strider <fernando.herrera85@gmail.com> 1497888500 -0600	commit: Agregamos los heroes
+6b8f60d4bb136cfa0563274f340dd2da090b8e25 bc1a1e5ba1f7523c0d900f95bb16ab87297c253e Strider <fernando.herrera85@gmail.com> 1497888522 -0600	commit: Agregamos las ciudades
+bc1a1e5ba1f7523c0d900f95bb16ab87297c253e d57133723a4066adce0fd7114d3b2723d1b01d37 Strider <fernando.herrera85@gmail.com> 1497888564 -0600	commit: Agregamos las ciudades
+d57133723a4066adce0fd7114d3b2723d1b01d37 3b660025d6105f9194e5aabbd3bf66d50a2569b6 Strider <fernando.herrera85@gmail.com> 1497889149 -0600	commit (amend): Agregamos las ciudades
+3b660025d6105f9194e5aabbd3bf66d50a2569b6 860c6c28c99abcc67e44671511b04ef7ac787be5 Strider <fernando.herrera85@gmail.com> 1497889186 -0600	commit (amend): Agregamos las historias de los heroes
+860c6c28c99abcc67e44671511b04ef7ac787be5 345d7de729e8013b3cc00f53a737d6b0e9d95199 Strider <fernando.herrera85@gmail.com> 1497889251 -0600	commit: Editamos el readme.md
+345d7de729e8013b3cc00f53a737d6b0e9d95199 39ae8e64806dd5bf9883500548cb88a17d879d79 Strider <fernando.herrera85@gmail.com> 1497889281 -0600	commit: Agregamos a linterna verde a los heroes
+39ae8e64806dd5bf9883500548cb88a17d879d79 39ae8e64806dd5bf9883500548cb88a17d879d79 Strider <fernando.herrera85@gmail.com> 1497889908 -0600	reset: moving to HEAD
+39ae8e64806dd5bf9883500548cb88a17d879d79 345d7de729e8013b3cc00f53a737d6b0e9d95199 Strider <fernando.herrera85@gmail.com> 1497890011 -0600	reset: moving to 345d7de
+345d7de729e8013b3cc00f53a737d6b0e9d95199 c96385e3348923e4246891153e8fc82a1e463a80 Strider <fernando.herrera85@gmail.com> 1497890062 -0600	commit: Agregamos a Linterna verde y a Robin:
+c96385e3348923e4246891153e8fc82a1e463a80 4e809d4c4503539e55df381192375d01b2a53295 Strider <fernando.herrera85@gmail.com> 1497890067 -0600	commit (amend): Agregamos a Linterna verde y a Robin
+4e809d4c4503539e55df381192375d01b2a53295 860c6c28c99abcc67e44671511b04ef7ac787be5 Strider <fernando.herrera85@gmail.com> 1497890463 -0600	reset: moving to 860c6c2
+860c6c28c99abcc67e44671511b04ef7ac787be5 860c6c28c99abcc67e44671511b04ef7ac787be5 Strider <fernando.herrera85@gmail.com> 1497890528 -0600	reset: moving to 860c6c2
+860c6c28c99abcc67e44671511b04ef7ac787be5 da24862d49edc92b35e54b53549fa6d3d65ffa7c Strider <fernando.herrera85@gmail.com> 1497891029 -0600	reset: moving to da24862
+da24862d49edc92b35e54b53549fa6d3d65ffa7c 88a423dfb464636aef170f5f4f775ac7f2f26158 Strider <fernando.herrera85@gmail.com> 1497891060 -0600	reset: moving to 88a423d
+88a423dfb464636aef170f5f4f775ac7f2f26158 4e809d4c4503539e55df381192375d01b2a53295 Strider <fernando.herrera85@gmail.com> 1497891399 -0600	reset: moving to 4e809d4
+4e809d4c4503539e55df381192375d01b2a53295 fa3cd3a7ecc8859293e3c42f333a145563fec0a0 Strider <fernando.herrera85@gmail.com> 1497908666 -0600	commit: Creando el archivo destruir el mundo
+fa3cd3a7ecc8859293e3c42f333a145563fec0a0 c9ee153a1ef370b756b05452d5f8b29a520ef5b5 Strider <fernando.herrera85@gmail.com> 1497908762 -0600	commit: Renombrando archivo a salvar-mundo
+c9ee153a1ef370b756b05452d5f8b29a520ef5b5 d877f01f0054cf65f9bebdc0344845bdcdbe7806 Strider <fernando.herrera85@gmail.com> 1497908829 -0600	commit: Borrando archivo salvar mundo
+d877f01f0054cf65f9bebdc0344845bdcdbe7806 d877f01f0054cf65f9bebdc0344845bdcdbe7806 Strider <fernando.herrera85@gmail.com> 1497910724 -0600	reset: moving to d877f01
+d877f01f0054cf65f9bebdc0344845bdcdbe7806 b4c748c4dd3447a9801713c9faa4a1a04d126d62 Strider <fernando.herrera85@gmail.com> 1497910886 -0600	commit: Cambiamos el nombre de la historia de superman
+b4c748c4dd3447a9801713c9faa4a1a04d126d62 ac0d374661d894356d89b79e55d0f0ad3f78da26 Strider <fernando.herrera85@gmail.com> 1497910956 -0600	commit: Borramos la historia de batman
+ac0d374661d894356d89b79e55d0f0ad3f78da26 62c8a103793185c4d4f646b595882a88e732a813 Strider <fernando.herrera85@gmail.com> 1497912014 -0600	commit: Agregando el gitignore
+62c8a103793185c4d4f646b595882a88e732a813 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653488391 -0600	checkout: moving from master to branch-villanos
+62c8a103793185c4d4f646b595882a88e732a813 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653488455 -0600	checkout: moving from branch-villanos to branch-villanos
+62c8a103793185c4d4f646b595882a88e732a813 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653488467 -0600	checkout: moving from branch-villanos to master
+62c8a103793185c4d4f646b595882a88e732a813 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653488478 -0600	checkout: moving from master to branch-villanos
+62c8a103793185c4d4f646b595882a88e732a813 6a2742d08db834c62a4e3740ccf9185c2b795544 rafael <rbrenesr@gmail.com> 1653488675 -0600	commit: villanos.dm added
+6a2742d08db834c62a4e3740ccf9185c2b795544 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653488800 -0600	commit: villanos.md: Maria villano added
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653489013 -0600	checkout: moving from branch-villanos to master
+62c8a103793185c4d4f646b595882a88e732a813 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653489033 -0600	checkout: moving from master to branch-villanos
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653489043 -0600	checkout: moving from branch-villanos to master
+62c8a103793185c4d4f646b595882a88e732a813 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653489062 -0600	checkout: moving from master to master
+62c8a103793185c4d4f646b595882a88e732a813 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653489075 -0600	checkout: moving from master to master
+62c8a103793185c4d4f646b595882a88e732a813 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653489085 -0600	checkout: moving from master to master
+62c8a103793185c4d4f646b595882a88e732a813 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653489101 -0600	checkout: moving from master to branch-villanos
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653489115 -0600	checkout: moving from branch-villanos to master
+62c8a103793185c4d4f646b595882a88e732a813 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653489120 -0600	checkout: moving from master to branch-villanos
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653489126 -0600	checkout: moving from branch-villanos to master
+62c8a103793185c4d4f646b595882a88e732a813 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653489148 -0600	checkout: moving from master to master
+62c8a103793185c4d4f646b595882a88e732a813 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653489149 -0600	checkout: moving from master to master
+62c8a103793185c4d4f646b595882a88e732a813 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653489177 -0600	checkout: moving from master to master
+62c8a103793185c4d4f646b595882a88e732a813 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653489229 -0600	checkout: moving from master to master
+62c8a103793185c4d4f646b595882a88e732a813 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653489241 -0600	checkout: moving from master to branch-villanos
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 62c8a103793185c4d4f646b595882a88e732a813 rafael <rbrenesr@gmail.com> 1653489500 -0600	checkout: moving from branch-villanos to master
+62c8a103793185c4d4f646b595882a88e732a813 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653489582 -0600	merge branch-villanos: Fast-forward
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653490006 -0600	checkout: moving from master to branch-villanos
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 09cee1f64ca7fff772a066ff0eed660134492e2f rafael <rbrenesr@gmail.com> 1653490052 -0600	commit: desmadre el readme
+09cee1f64ca7fff772a066ff0eed660134492e2f 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653490079 -0600	checkout: moving from branch-villanos to master
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 09cee1f64ca7fff772a066ff0eed660134492e2f rafael <rbrenesr@gmail.com> 1653490097 -0600	checkout: moving from master to branch-villanos
+09cee1f64ca7fff772a066ff0eed660134492e2f 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653490106 -0600	checkout: moving from branch-villanos to master
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653490119 -0600	checkout: moving from master to master
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 09cee1f64ca7fff772a066ff0eed660134492e2f rafael <rbrenesr@gmail.com> 1653490121 -0600	checkout: moving from master to branch-villanos
+09cee1f64ca7fff772a066ff0eed660134492e2f 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653490303 -0600	reset: moving to 41fb898
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 0000000000000000000000000000000000000000 rafael <rbrenesr@gmail.com> 1653490482 -0600	Branch: renamed refs/heads/branch-villanos to refs/heads/master
+0000000000000000000000000000000000000000 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653490482 -0600	Branch: renamed refs/heads/branch-villanos to refs/heads/master
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653490724 -0600	checkout: moving from master to branch-villanos
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 03b1da2322745ef6b9c574ddccebaca79649dbae rafael <rbrenesr@gmail.com> 1653490819 -0600	commit: villanos.md: Janixa added
+03b1da2322745ef6b9c574ddccebaca79649dbae b1c213fde2e56e032e100db912ddcc7c9f275f50 rafael <rbrenesr@gmail.com> 1653603117 -0600	commit: villanos.md: notas added
+b1c213fde2e56e032e100db912ddcc7c9f275f50 9d5b852d0bf16c08678b3d610097b1b1cc16af09 rafael <rbrenesr@gmail.com> 1653603376 -0600	commit: temp.md, villanos.md: seguimiento y nuevo villano
+9d5b852d0bf16c08678b3d610097b1b1cc16af09 6a2742d08db834c62a4e3740ccf9185c2b795544 rafael <rbrenesr@gmail.com> 1653603637 -0600	reset: moving to 6a2742d
+6a2742d08db834c62a4e3740ccf9185c2b795544 b1c213fde2e56e032e100db912ddcc7c9f275f50 rafael <rbrenesr@gmail.com> 1653603730 -0600	reset: moving to b1c213f
+b1c213fde2e56e032e100db912ddcc7c9f275f50 d042505d53f5de892948358e48c03ea73f2c3cef rafael <rbrenesr@gmail.com> 1653603839 -0600	commit: villanos.md: basura
+d042505d53f5de892948358e48c03ea73f2c3cef b1c213fde2e56e032e100db912ddcc7c9f275f50 rafael <rbrenesr@gmail.com> 1653603871 -0600	reset: moving to b1c213f
+b1c213fde2e56e032e100db912ddcc7c9f275f50 b1c213fde2e56e032e100db912ddcc7c9f275f50 rafael <rbrenesr@gmail.com> 1653603984 -0600	reset: moving to b1c213f
+b1c213fde2e56e032e100db912ddcc7c9f275f50 41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 rafael <rbrenesr@gmail.com> 1653604133 -0600	checkout: moving from branch-villanos to master
+41fb89814f8d2f5399438a65ea2e8faaa3a8c8a6 df8c184530e25510b2281600ef6471332973f94f rafael <rbrenesr@gmail.com> 1653604175 -0600	commit: Borramos a 2. Isidro
+df8c184530e25510b2281600ef6471332973f94f df8c184530e25510b2281600ef6471332973f94f rafael <rbrenesr@gmail.com> 1653604440 -0600	checkout: moving from master to master
+df8c184530e25510b2281600ef6471332973f94f 9ef6a4a6872b012bced36cafa668d748be467e5c rafael <rbrenesr@gmail.com> 1653604476 -0600	merge branch-villanos: Merge made by the 'ort' strategy.
+9ef6a4a6872b012bced36cafa668d748be467e5c 9ef6a4a6872b012bced36cafa668d748be467e5c rafael <rbrenesr@gmail.com> 1653605014 -0600	checkout: moving from master to branch-conflicto
+9ef6a4a6872b012bced36cafa668d748be467e5c 87c4873c48c5be371bcf6284bad65db196dfb48e rafael <rbrenesr@gmail.com> 1653605116 -0600	commit: Misiones.md: Punto 3 modificado
+87c4873c48c5be371bcf6284bad65db196dfb48e 9ef6a4a6872b012bced36cafa668d748be467e5c rafael <rbrenesr@gmail.com> 1653605233 -0600	checkout: moving from branch-conflicto to master
+9ef6a4a6872b012bced36cafa668d748be467e5c b584d82dfa1c0e3d607a83b7e0c91fc0c5a90e7d rafael <rbrenesr@gmail.com> 1653605388 -0600	commit: Misiones.md: Se agregó salval al mundo y cominda
+b584d82dfa1c0e3d607a83b7e0c91fc0c5a90e7d ddf6e3a00fa511ae555e7a784082f86c377544e2 rafael <rbrenesr@gmail.com> 1653606048 -0600	commit (merge): Union branch-conflicto / Misiones.md:completo
